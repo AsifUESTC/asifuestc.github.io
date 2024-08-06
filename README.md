@@ -1,6 +1,6 @@
 # Master Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python Programming, Deep Learning, Computer Vision
 
 ## Education						       		
 - M.S., Software Engineering	| The University of Electronic Science and Technology of China <br> (September 2023 - Present)	 			        		
