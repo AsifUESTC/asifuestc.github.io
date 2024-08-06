@@ -22,3 +22,9 @@
 Developed a hybrid machine learning model for detecting fake reviews using **Python**. This innovative approach integrated multiple machine learning algorithms to enhance the accuracy of identifying fraudulent reviews. By leveraging ensemble learning techniques, the model achieved significantly higher precision and recall compared to traditional methods. The proposed model provides a robust and scalable solution for automated fake review detection, offering valuable insights into maintaining the integrity of online review systems.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+## Certifications
+
+- [Deep Learning Specialization](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Machine Learning](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Applied Data Science with Python](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
