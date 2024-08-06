@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education						       		
-- M.S., Software Engineering	| The University of Electronic Science and Technology of China (September 2023 - Present)	 			        		
-- B.S., Computer Science | The Riphah International University Faisalabad (October 2018 - July 2022)
+- M.S., Software Engineering	| The University of Electronic Science and Technology of China <br> (September 2023 - Present)	 			        		
+- B.S., Computer Science | The Riphah International University Faisalabad <br> (October 2018 - July 2022)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
