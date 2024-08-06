@@ -24,7 +24,9 @@ Developed a hybrid machine learning model for detecting fake reviews using **Pyt
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Certifications
-
-- [Deep Learning Specialization](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
-- [Machine Learning](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
-- [Applied Data Science with Python](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Machine Learning with Python](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Introduction to Machine Learning](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Applied Data Science](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [AI for Everyone](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [HTML, CSS, JavaScript for Web Developers](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+- [Download Certifications (ZIP)](https://drive.google.com/file/d/1fkkz0Og9V0P395vWNCbFPqR03xi3hbXv/view?usp=sharing)
