@@ -29,3 +29,8 @@ Developed a hybrid machine learning model for detecting fake reviews using **Pyt
 - [AI for Everyone](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
 - [HTML, CSS, JavaScript for Web Developers](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
 - [Download Certifications (ZIP)](https://drive.google.com/file/d/1fkkz0Og9V0P395vWNCbFPqR03xi3hbXv/view?usp=sharing)
+
+## Contact Information
+
+- **Student Email:** asif.iqbal@std.uestc.edu.cn
+- **Personal Email:** asif7011729@gmail.com
