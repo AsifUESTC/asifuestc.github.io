@@ -16,9 +16,9 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### An Efficient Ensemble Approach for Fake Reviews Detection
+[Publication](https://ieeexplore.ieee.org/document/10136652)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a hybrid machine learning model for detecting fake reviews using **Python**. This innovative approach integrated multiple machine learning algorithms to enhance the accuracy of identifying fraudulent reviews. By leveraging ensemble learning techniques, the model achieved significantly higher precision and recall compared to traditional methods. The proposed model provides a robust and scalable solution for automated fake review detection, offering valuable insights into maintaining the integrity of online review systems.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
