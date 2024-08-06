@@ -1,5 +1,8 @@
 title: Asif Iqbal
 #logo: /assets/img/headshot_circle.png
 #description: text below image
+emails:
+  - student: "asif.iqbal@std.uestc.edu.cn"
+  - personal: "asif7011729@gmail.com"
 show_downloads: false
 theme: jekyll-theme-minimal
