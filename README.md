@@ -12,7 +12,7 @@
 - Focusing on developing and optimizing models to achieve high accuracy in video-based activity recognition.
 
 
-**Software Developer (Remote) | Arms Solutions Inc. Canada | (_October 2022 - July 2023_)**
+**Software Developer (Remote) | Arms Solutions Inc. Canada (_October 2022 - July 2023_)**
 - Built and maintained web applications aligned with company needs, ensuring functionality and user satisfaction.<br>
 - Collaborated with cross-functional teams to implement features and improve application performance.
 
