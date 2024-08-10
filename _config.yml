@@ -1,6 +1,7 @@
 title: Asif Iqbal
 logo: /assets/img/pic.jpg
 custom_css: "/assets/css/custom.css"
+footer: false
 emails:
   - student: "asif.iqbal@std.uestc.edu.cn"
   - personal: "asif7011729@gmail.com"
