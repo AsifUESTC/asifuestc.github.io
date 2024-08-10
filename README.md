@@ -7,13 +7,13 @@
 - B.S., Computer Science | The Riphah International University Faisalabad <br> (October 2018 - July 2022)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Master's Thesis | University of Electronic Science and Technology of China (_Sept 2023 - Present_)**
+- Conducting research on Human Activity Recognition (HAR) using a deep learning hybrid model based on Vision Transformers.
+- Optimizing the model for enhanced accuracy, contributing to advancements in video-based activity recognition.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software Developer (Remote) | Arms Solutions Inc. Canada | (_October 2022 - July 2023_)**
+- Built and maintained web applications aligned with company needs, ensuring functionality and user satisfaction.
+- Collaborated with cross-functional teams to implement features and improve application performance.
 
 ## Projects
 ### An Efficient Ensemble Approach for Fake Reviews Detection
