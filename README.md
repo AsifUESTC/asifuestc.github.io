@@ -9,11 +9,13 @@
 ## Work Experience
 **Master's Thesis | University of Electronic Science and Technology of China (_Sept 2023 - Present_)**
 - Working on Human Activity Recognition (HAR) using state-of-the-art Transformers models in deep learning.<br>
+<br>
 - Focusing on developing and optimizing models to achieve high accuracy in video-based activity recognition.
 
 
 **Software Developer (Remote) | Arms Solutions Inc. Canada | (_October 2022 - July 2023_)**
 - Built and maintained web applications aligned with company needs, ensuring functionality and user satisfaction.<br>
+<br>
 - Collaborated with cross-functional teams to implement features and improve application performance.
 
 ## Projects
