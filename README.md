@@ -7,7 +7,7 @@
 - B.S., Computer Science | The Riphah International University Faisalabad <br> (October 2018 - July 2022)
 
 ## Work Experience
-**Master's Thesis | University of Electronic Science and Technology of China (_Sept 2023 - Present_)**
+**Master's Thesis | University of Electronic Science and Technology of China (_September 2023 - Present_)**
 - Working on Human Activity Recognition (HAR) using state-of-the-art Transformers models in deep learning.<br>
 - Focusing on developing and optimizing models to achieve high accuracy in video-based activity recognition.
 
